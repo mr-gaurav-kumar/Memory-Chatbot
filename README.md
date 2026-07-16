@@ -152,6 +152,7 @@ GEMINI_API_KEY = "your_real_api_key"
 ## 👨‍💻 Author
 
 **Gaurav Kumar**
- **LinkedIn:** [Click here](https://www.linkedin.com/in/gaurav-k-sinha/)
+
+**LinkedIn:** [Click here](https://www.linkedin.com/in/gaurav-k-sinha/)
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
