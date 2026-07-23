@@ -13,7 +13,7 @@ https://memory-chatbot-u9nal3ycbosdiqbucjcgaz.streamlit.app/
 ---  
  
 
-## ✨ Features
+## ✨ Features 
 
 - 💬 Context-aware conversations using Google Gemini
 - 🧠 Short-Term Memory (session-based context)
